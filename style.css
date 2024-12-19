@@ -1,0 +1,23 @@
+header > h1{
+    text-align: center;
+    color: white;
+    font-family: "Agdasima", sans-serif;
+    padding: 10px;
+    text-shadow: 2px 2px rgb(83, 82, 82);
+}
+header > p{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header > a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    font-style: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: linear-gradient(rgb(92, 213, 187), rgb(10, 126, 101));
+    margin: 0px;
+}
